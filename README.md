@@ -9,7 +9,7 @@ Currently only works for Linux
 # How to use:
 1. Download the bash script from the Releases section or clone this repo.
 2. Open the script with your preffered text editor and edit at line 35 the key number with your console key in scp sl and save it.
-3. Make the file executable with `chmod -x launch-scp.sh` in your terminal
+3. Make the file executable with `chmod +x launch-scp.sh` in your terminal
 
 # (OPTIONAL) Add the script to Steam
 Click on Games on the top left, click Add a Non-Steam Game to My Library, click on browse, select the script and you are good to go.

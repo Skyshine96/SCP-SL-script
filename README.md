@@ -2,7 +2,7 @@
 This is a bash script to start scp secret lab and starting the commands `cst` and `accstats` automatically
 Currently only works for Linux
 
-## Requirements
+# Requirements
 - Linux as an os (tested on CachyOS), windows is currently not supported
 - `ydotool` and `ydotoold` installed and working
 

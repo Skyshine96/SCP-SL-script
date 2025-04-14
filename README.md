@@ -14,7 +14,7 @@ Currently only works for Linux
 # (OPTIONAL) Add the script to Steam
 Click on Games on the top left, click Add a Non-Steam Game to My Library, click on browse, select the script and you are good to go.
 
-# (OPTIONAL IN THE OPTIONIAL) this is to make the script look like the normal game in steam
+## (OPTIONAL IN THE OPTIONAL) this is to make the script look like the normal game in steam
 1. Go to https://www.steamgriddb.com/game/21217 and click on View original Assets
 2. Download all of them
 3. Make a right click on the game in steam, go to properties, rename it and select the original you client icon you downloaded
